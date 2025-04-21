@@ -1,0 +1,7 @@
+services:
+  - type: web
+    name: ebac-ds-streamlit
+    env: python
+    buildCommand: pip install --upgrade pip && pip install -r requirements.txt
+    startCommand: streamlit run app_RFV.py
+    plan: free
