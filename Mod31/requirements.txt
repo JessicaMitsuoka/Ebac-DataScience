@@ -1,4 +1,0 @@
-numpy
-streamlit
-XlsxWriter==3.2.2
-pandas==2.2.3
