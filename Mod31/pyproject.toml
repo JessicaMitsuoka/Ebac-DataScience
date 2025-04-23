@@ -6,9 +6,10 @@ authors = ["Seu Nome <seu@email.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.11"
-XlsxWriter = "*"
-streamlit = "*"
-pandas = "*"
+streamlit = "1.23.1"
+pandas = "1.3.5"
+numpy = "1.21.6"
+XlsxWriter = "3.1.9"
 scikit-learn = "*"
 
 [build-system]
