@@ -6,6 +6,7 @@ authors = ["Seu Nome <seu@email.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.11"
+streamlit = "*"
 pandas = "*"
 scikit-learn = "*"
 # Adicione aqui outras libs que seu app_RFV.py usa
