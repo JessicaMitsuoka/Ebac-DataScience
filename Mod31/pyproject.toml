@@ -10,7 +10,6 @@ XlsxWriter = "*"
 streamlit = "*"
 pandas = "*"
 scikit-learn = "*"
-# Adicione aqui outras libs que seu app_RFV.py usa
 
 [build-system]
 requires = ["poetry-core"]
