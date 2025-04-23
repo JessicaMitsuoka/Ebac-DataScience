@@ -6,6 +6,7 @@ authors = ["Seu Nome <seu@email.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.11"
+XlsxWriter = "*"
 streamlit = "*"
 pandas = "*"
 scikit-learn = "*"
