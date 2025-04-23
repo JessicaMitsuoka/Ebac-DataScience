@@ -1,0 +1,12 @@
+services:
+  - type: web
+    name: ebac-mod31
+    env: python
+    buildCommand: poetry install
+    startCommand: poetry run python main.py
+    runtime: python
+    pythonVersion: 3.11.11
+    buildFilter:
+      paths:
+        - Mod31/**
+    rootDir: Mod31
