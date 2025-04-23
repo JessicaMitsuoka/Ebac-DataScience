@@ -1,0 +1,4 @@
+stramlit
+XlsxWriter==3.2.2
+numpy==2.2.5
+pandas==2.2.3
