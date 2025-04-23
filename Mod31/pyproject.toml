@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "mod31"
+version = "0.1.0"
+description = "Projeto de classificação"
+authors = ["Seu Nome <seu@email.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.11"
+pandas = "*"
+scikit-learn = "*"
+# Adicione aqui outras libs que seu app_RFV.py usa
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
