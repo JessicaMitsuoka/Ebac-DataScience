@@ -4,7 +4,7 @@
 
 ---
 
-# [**Profissão: Cientista de Dados**](https://github.com/JessicaMitsuoka)Curso_EBAC-Profissao_Cientista_de_Dados)
+# [**Profissão: Cientista de Dados**](https://github.com/JessicaMitsuoka)
 ### [**Módulo 31** | Streamlit V]
 
 **Por:** [Jessica Mitsuoka]<br>
