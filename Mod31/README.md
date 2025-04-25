@@ -7,11 +7,6 @@
 # [**Profissão: Cientista de Dados**](https://github.com/JessicaMitsuoka)
 ### [**Módulo 31** | Streamlit V]
 
-**Por:** [Jessica Mitsuoka]<br>
-**Data:** 23 de Abril de 2025.
-
----
-
 #### **Descrição:**
 Segmentação de clientes utilizando o RFV (Recência, Frequência e Valor)
 
