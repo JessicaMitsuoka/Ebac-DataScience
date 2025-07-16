@@ -20,9 +20,7 @@ Este projeto foi desenvolvido como parte do Módulo 38, com o objetivo de aplica
 
 ## ▶️ Demonstração em Vídeo
 
-📽️ [Clique aqui para assistir ao vídeo de demonstração no Google Drive](https://drive.google.com/https://drive.google.com/file/d/1E9xI6pO9uWVb3f-SU9TaipLQbD8uUOxI/view?usp=sharing
-)
-
+📽️ [Clique aqui para assistir ao vídeo de demonstração no Google Drive](https://drive.google.com/file/d/1E9xI6pO9uWVb3f-SU9TaipLQbD8uUOxI/view?usp=sharing)
 ---
 
 ## 🧪 Como executar
