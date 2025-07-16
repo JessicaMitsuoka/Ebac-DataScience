@@ -22,7 +22,7 @@ Este projeto foi desenvolvido como parte do Módulo 38, com o objetivo de aplica
 
 Clique abaixo para assistir ao funcionamento da aplicação:
 
-📽️ [Assista ao vídeo de demonstração](./video_demo_credit_scoring.webm)
+📽️ [Assista ao vídeo de demonstração](./streamlit-app_credit_scoring.webm)
 
 ## 📝 Como executar
 
