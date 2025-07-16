@@ -20,10 +20,8 @@ Este projeto foi desenvolvido como parte do Módulo 38, com o objetivo de aplica
 
 ## ▶️ Demonstração em Vídeo
 
-<video width="100%" controls>
-  <source src="video_demonstracao.mp4" type="video/mp4">
-  Seu navegador não suporta a visualização do vídeo.
-</video>
+📽️ [Clique aqui para assistir ao vídeo de demonstração no Google Drive](https://drive.google.com/https://drive.google.com/file/d/1E9xI6pO9uWVb3f-SU9TaipLQbD8uUOxI/view?usp=sharing
+)
 
 ---
 
